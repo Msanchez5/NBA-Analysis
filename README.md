@@ -16,8 +16,24 @@
   </ul></li>
   <li>Project<ul>
     <li>Code</li>
+    <ol>
       <li>Here is the code used for both chapters. It includes all exploratory data analysis done before completing each chapter.</li>
+    </ol>
     <li>latex</li>
+    <ol>
       <li>This will be the latex folder of how the project report was constructed.</li>
+    </ol>
   </ul></li>
+</ol>
+
+<hr />
+
+### Prerequisite
+To run the code, you will have to download R and Rstudio
+
+<ol>
+    <li>Install R.</li>
+    <li>Go to the RStudio website, navigate to the RStudio Desktop Download page, and download RStudio Desktop.</li>
+    <li>Run the installer and follow the prompts.</li>
+    <li>Click the desktop icon to initialize RStudio.</li>
 </ol>
