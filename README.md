@@ -7,7 +7,7 @@
 ### Table Of Contents (math Folder)
 
 <ol>
-  <li>Project<ul>
+  <li>Project.pdf<ul>
     <li>This is the final pdf report-out of the explanation and the analysis done on this project. </li>
   </ul></li>
   <li>Data <ul>
