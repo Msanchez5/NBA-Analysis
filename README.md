@@ -8,7 +8,7 @@
 
 <ol>
   <li>Project<ul>
-    <li>This is the final pdf outcome of all the analysis done on this project. </li>
+    <li>This is the final pdf report-out of the explanation and the analysis done on this project. </li>
   </ul></li>
   <li>Data <ul>
      <li>In Chapter 1, the data was straightforward. We used the file named all_seasons for this chapter.</li>
@@ -22,11 +22,6 @@
     <li>latex</li>
     <ol>
       <li>This will be the latex folder of how the project report was constructed.</li>
-    </ol>
-  </ul></li>
-   <li>Project.pdf<ul>
-    <ol>
-      <li>This is the report-out of the project. It is the written explanation and in-depth analysis of the project scope.</li>
     </ol>
   </ul></li>
 </ol>
