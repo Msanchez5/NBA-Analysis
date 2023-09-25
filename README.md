@@ -24,6 +24,11 @@
       <li>This will be the latex folder of how the project report was constructed.</li>
     </ol>
   </ul></li>
+   <li>Project.pdf<ul>
+    <ol>
+      <li>This is the report-out of the project. It is the written explanation and in-depth analysis of the project scope.</li>
+    </ol>
+  </ul></li>
 </ol>
 
 <hr />
