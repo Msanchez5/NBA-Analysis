@@ -1,7 +1,7 @@
 # NBA-Analysis
 <hr />
 
-### Have you wondered whether the taller the person is, the better they would be at basketball, or if they were shorter, they wouldn't have a chance? What about what determines a winner? Or how would you predict a person's impact on winning based on their stats, even if they lost a game? In this project, I analyze NBA players' skills concerning their height. And determining whether height had an impact on determining a player's skill level. Another aspect covered is creating a prediction model for a player's contribution to winning. Using the metric of Win Shares per 48 MInutes, we could determine what stats contribute to winning.
+### Have you wondered whether the taller the person is, the better they would be at basketball, or if they were shorter, they wouldn't have a chance? What about what determines a winner? Or how would you predict a person's impact on winning based on their stats, even if they lost a game? In this project, I analyze NBA players' skills concerning their height. And determining whether height had an impact on a player's skill level. Another aspect covered is creating a prediction model for a player's contribution to winning. Using the metric of Win Shares per 48 MInutes, we could determine what stats contribute to winning.
 <hr />
 
 ### Table Of Contents (math Folder)
